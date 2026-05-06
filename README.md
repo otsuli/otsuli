@@ -1,4 +1,12 @@
+
+<img src="https://terminal-identity-opal.vercel.app/api?name=Otso+Reijonen&username=otsuli&role=Systems&tagline=Performance%2C+Efficiency%2C+Power.&status=maintaining+web+performance+notes&command=npm+run+perf&theme=amber%2Fcobalt&avatar=AO&pattern=pulse&width=980&height=auto&accent=%239cd7ff&showLangs=off&showContribs=on&barStyle=dots&contribTheme=orbit" width="100%" alt="Terminal identity card" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=3000&pause=1000&width=500&height=100&lines=Hi+I'm+Otso)](https://git.io/typing-svg)
+
+
+
+
+
 
 ## A back-end and systems software engineer learning the ropes. I'm passionate about computers, programming and all there is to the internet.
 
@@ -8,7 +16,6 @@
 
 
 Email me: otso.reijonen@icloud.com
-
 
 
 DM me on Discord: boom1401
