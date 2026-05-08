@@ -57,7 +57,7 @@ DM me on Discord: boom1401
 - AaltoAI Hackathon 2025
 
 ## My Medium Articles: 
-- https://medium.com/@vtvfyrtw/three-quick-ways-to-instantly-sound-smarter-2002bf0a1a22?
+- https://medium.com/@vtvfyrtw/three-quick-ways-to-instantly-sound-smarter-2002bf0a1a22
 
 ## 💬Socials: 
 
