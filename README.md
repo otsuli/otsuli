@@ -7,7 +7,7 @@
 
 
 
-## A back-end and systems software engineer learning the ropes. I'm passionate about computers, programming, cyber security, and all there is to the internet.
+## A back-end and systems software engineer learning the ropes. I'm passionate about computers, low-level programming, cyber security, networking and all there is to the internet.
 
 ### What I'm Working on: 
 - I'm currently learning how to build a programming language.
