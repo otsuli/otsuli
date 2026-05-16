@@ -36,14 +36,10 @@ DM me on Discord: boom1401
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width:48px;height:48px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width:48px;height:48px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" style="width:48px;height:48px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style="width:48px;height:48px;" />
 </div>
 
 ## 🏆Hackathons I participated in: 
 - AaltoAI Hackathon 2025
-
-## My Medium Articles: 
-- https://medium.com/@vtvfyrtw/three-quick-ways-to-instantly-sound-smarter-2002bf0a1a22
 
 ## 💬Socials: 
 
