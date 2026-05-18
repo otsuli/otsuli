@@ -10,7 +10,7 @@
 ## A systems software engineer learning the ropes. I'm passionate about computers, low-level programming, cyber security, networking and all there is to the internet.
 
 ### What I'm Working on: 
-- I'm currently learning how to build a programming language.
+- I'm currently building a compiler.
 - I'm working on making a personal portfolio with astro. 
 
 
