@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=3000&pause=1000&width=500&height=100&lines=Hi+I'm+Otso)](https://git.io/typing-svg)
 
-
-
-
-
-
 ## A systems software engineer learning the ropes. I'm passionate about computers, low-level programming, cyber security, networking and all there is to the internet.
 
 ### What I'm Working on: 
